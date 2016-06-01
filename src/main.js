@@ -649,7 +649,8 @@ function TimekitBooking() {
     render:    render,
     init:      init,
     destroy:   destroy,
-    fullCalendar: fullCalendar
+    fullCalendar: fullCalendar,
+    showBookingPage: showBookingPage
   };
 
 }
